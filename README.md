@@ -54,14 +54,15 @@
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Featured & Pinned Repositories
 
 | Project | Highlights | Tech Stack |
 |:---|:---|:---|
+| 🔍 **[Redline-critique-ai](https://github.com/Shubhamd7744/Redline-critique-ai)** | Automated AI design critique, visual linting & code review platform | TypeScript, React, Tailwind CSS |
+| 🏥 **[Hospital-Management-AI](https://github.com/Shubhamd7744/Hospital-Management-AI)** | Intelligent hospital workflow, clinical records & management system | TypeScript, Next.js, Database |
 | 🎨 **[LOGOSTUDIO-AI](https://github.com/Shubhamd7744/LOGOSTUDIO-AI)** | AI-driven generative logo & vector design application | Next.js, TypeScript, Tailwind CSS |
 | 💬 **[nextjs-ai-chatbot](https://github.com/Shubhamd7744/nextjs-ai-chatbot)** | Full-featured conversational AI assistant with streaming interface | Next.js, React, OpenAI API |
 | 📸 **[Magphoto](https://github.com/Shubhamd7744/Magphoto)** | AI image background remover and quality photo enhancer | TypeScript, React, Canvas APIs |
-| 🖤 **[noir](https://github.com/Shubhamd7744/noir)** | Modern dark aesthetic web experience and UI design system | React, TypeScript, Tailwind |
 
 ---
 
