@@ -1,6 +1,8 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,36,29&height=200&section=header&text=Shubham%20Dutta&fontSize=52&fontAlignY=40&animation=fadeIn&desc=UI%2FUX%20Designer%20%26%20Frontend%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Shubhamd7744/Shubhamd7744/main/assets/banner.svg" width="100%" alt="Shubham Dutta Banner" />
 </div>
+
+<br/>
 
 <div align="center">
   <p align="center">
